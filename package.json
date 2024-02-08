@@ -1,0 +1,11 @@
+{
+  "name": "medcofteste",
+  "version": "1.0.0",
+  "description": "Teste pratico medcof",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd mf-about && npm i && npm start & cd ../mf-list && npm i && npm start & cd ../mf-navbar && npm i && npm start & cd ../host && npm i && npm start"
+  },
+  "author": "Vinicius Abdon",
+  "license": "ISC"
+}
